@@ -1,0 +1,196 @@
+CRITICAL - 2023-07-16 10:09:33 --> Attempt to read property "getData" on null
+in APPPATH\Controllers\Products.php on line 11.
+ 1 APPPATH\Controllers\Products.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "getData" on null', 'C:\\xampp\\htdocs\\miracledrinks\\app\\Controllers\\Products.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:12:18 --> Attempt to read property "getRecords" on null
+in APPPATH\Controllers\Products.php on line 11.
+ 1 APPPATH\Controllers\Products.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "getRecords" on null', 'C:\\xampp\\htdocs\\miracledrinks\\app\\Controllers\\Products.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:12:52 --> Call to a member function getRecords() on null
+in APPPATH\Controllers\Products.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:13:23 --> Call to a member function getData() on null
+in APPPATH\Controllers\Products.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:17:29 --> Call to a member function getData() on null
+in APPPATH\Controllers\Products.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:19:47 --> Call to a member function getData() on null
+in APPPATH\Controllers\Products.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:24:00 --> Call to a member function getRecords() on null
+in APPPATH\Controllers\Products.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:24:22 --> Call to a member function getRecords() on null
+in APPPATH\Controllers\Products.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:30:45 --> Call to a member function getRecords() on null
+in APPPATH\Controllers\Products.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:31:23 --> Call to a member function getRecords() on null
+in APPPATH\Controllers\Products.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:31:25 --> Call to a member function getRecords() on null
+in APPPATH\Controllers\Products.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:31:40 --> App\Models\ProductsModal::__construct(): Argument #1 ($db) must be of type App\Models\ConnectionInterface, null given, called in C:\xampp\htdocs\miracledrinks\system\Config\Factories.php on line 113
+in APPPATH\Models\ProductsModal.php on line 8.
+ 1 SYSTEMPATH\Config\Factories.php(113): App\Models\ProductsModal->__construct(null)
+ 2 SYSTEMPATH\Common.php(825): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 3 APPPATH\Controllers\Products.php(9): model('ProductsModal')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-16 10:35:03 --> Class "App\Controllers\ProductsModal" not found
+in APPPATH\Controllers\Products.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 11:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:03:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:07:44 --> Non-static method App\Libraries\Newlib::getNew() cannot be called statically
+in APPPATH\Controllers\Products.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->getLibdata()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:10:48 --> Non-static method App\Libraries\Newlib::getNew() cannot be called statically
+in APPPATH\Controllers\Products.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->getLibdata()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:11:21 --> Non-static method App\Libraries\Newlib::getNew() cannot be called statically
+in APPPATH\Controllers\Products.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->getLibdata()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:14:09 --> Undefined property: App\Controllers\Products::$Newlib
+in APPPATH\Controllers\Products.php on line 23.
+ 1 APPPATH\Controllers\Products.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::$Newlib', 'C:\\xampp\\htdocs\\miracledrinks\\app\\Controllers\\Products.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->getLibdata()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:14:54 --> Undefined property: App\Controllers\Products::$Newlib
+in APPPATH\Controllers\Products.php on line 23.
+ 1 APPPATH\Controllers\Products.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::$Newlib', 'C:\\xampp\\htdocs\\miracledrinks\\app\\Controllers\\Products.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->getLibdata()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:15:15 --> Undefined property: App\Controllers\Products::$Newlib
+in APPPATH\Controllers\Products.php on line 23.
+ 1 APPPATH\Controllers\Products.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::$Newlib', 'C:\\xampp\\htdocs\\miracledrinks\\app\\Controllers\\Products.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->getLibdata()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:16:37 --> Call to a member function getNew() on null
+in APPPATH\Controllers\Products.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->getLibdata()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:30:45 --> Undefined property: App\Controllers\Products::$db
+in APPPATH\Controllers\Products.php on line 12.
+ 1 APPPATH\Controllers\Products.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::$db', 'C:\\xampp\\htdocs\\miracledrinks\\app\\Controllers\\Products.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:32:50 --> Undefined property: App\Controllers\Products::$ProductsModal
+in APPPATH\Controllers\Products.php on line 12.
+ 1 APPPATH\Controllers\Products.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::$ProductsModal', 'C:\\xampp\\htdocs\\miracledrinks\\app\\Controllers\\Products.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:32:58 --> Undefined property: App\Controllers\Products::$db
+in APPPATH\Controllers\Products.php on line 13.
+ 1 APPPATH\Controllers\Products.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::$db', 'C:\\xampp\\htdocs\\miracledrinks\\app\\Controllers\\Products.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:34:24 --> Call to a member function getLastQuery() on null
+in APPPATH\Models\ProductsModal.php on line 15.
+ 1 APPPATH\Controllers\Products.php(11): App\Models\ProductsModal->getRecords()
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 14:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 14:36:52 --> Undefined property: App\Controllers\Products::$db
+in APPPATH\Controllers\Products.php on line 15.
+ 1 APPPATH\Controllers\Products.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::$db', 'C:\\xampp\\htdocs\\miracledrinks\\app\\Controllers\\Products.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Products->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-07-16 14:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
